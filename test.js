@@ -10,6 +10,7 @@ const soundWindup = new Audio(__dirname + '/wav/windup.wav');
 const soundClick = new Audio(__dirname + '/wav/click.wav');
 const soundDing = new Audio(__dirname + '/wav/ding.wav');
 
+// Some other stuff
 let state = ""
 let currentMinute = 0
 const workMinutes = 25
